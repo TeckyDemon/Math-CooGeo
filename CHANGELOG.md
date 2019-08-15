@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.1] - 2019-08-16
+
+### Added
+
+##### [lib/Math/CooGeo.pl](lib/Math/CooGeo.pl)
+
+- Missing part in POD.
+
+### Fixed
+
+##### [lib/Math/CooGeo.pl](lib/Math/CooGeo.pl)
+
+- Error in POD.
+
 ## [1.0.0] - 2019-08-15
 
 ### Added

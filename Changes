@@ -2,6 +2,11 @@ Revision history for Math-CooGeo
 
 All notable changes to this project will be documented in this file.
 
+1.0.1 - 2019-08-16
+
+	Added missing part to POD.
+	Fixed error in POD.
+
 1.0.0 - 2019-08-15
 
 	Start of project.
