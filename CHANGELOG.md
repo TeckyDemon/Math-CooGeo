@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.2] - 2019-08-16
+
+### Fixed
+
+##### [lib/Math/CooGeo.pl](lib/Math/CooGeo.pl)
+
+- Typo in POD.
+
 ## [1.0.1] - 2019-08-16
 
 ### Added
